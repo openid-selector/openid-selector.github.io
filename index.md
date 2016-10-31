@@ -4,7 +4,7 @@ layout: default
 ---
 ### Show me some demos
 
-A demo based on [JQuery](http://jquery.com/) is available *[here](//openid-selector.github.io/demo.html)*. A demo based on [MooTools](http://mootools.net/) rather than JQuery is available *[here](//openid-selector.github.io/demo-mootools.html)*. A demo based on [Prototype](http://prototypejs.org/) is also *[available](//openid-selector.github.io/demo-prototype.html)*.
+A demo based on [JQuery](http://jquery.com/) is available *[here](demos/demo.html)*. A demo based on [MooTools](http://mootools.net/) rather than JQuery is available *[here](demos/demo-mootools.html)*. A demo based on [Prototype](http://prototypejs.org/) is also *[available](demos/demo-prototype.html)*.
 
 ### Features
 
