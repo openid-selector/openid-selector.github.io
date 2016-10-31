@@ -164,7 +164,8 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header ul {
+header ul,
+header .gh-project {
   list-style:none;
   height:40px;
   padding:0;
@@ -173,6 +174,18 @@ header ul {
   border:1px solid #e0e0e0;
   width:270px;
 }
+
+header .octicon {
+  display: block;
+  float:left;
+  margin-right: 10px;
+}
+
+header .logo {
+  display: block;
+  /*float:left;*/
+}
+
 
 header li {
   width:89px;
