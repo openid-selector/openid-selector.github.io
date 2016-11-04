@@ -175,7 +175,7 @@ header .gh-project {
   width:270px;
 }
 
-header .octicon {
+header .icon {
   display: block;
   float:left;
   margin-right: 10px;
@@ -185,7 +185,6 @@ header .logo {
   display: block;
   /*float:left;*/
 }
-
 
 header li {
   width:89px;
