@@ -1,0 +1,33 @@
+/* donate buttons */
+.donate {
+  display: inline-block;
+  margin: 10px 7px 3px 0;
+  background-color: #5c5c5c;
+  border-radius: 2px;
+  font-size: 0.8em;
+}
+.donate a {
+  line-height: 20px;
+  display: block;
+  color: #fff;
+  padding-left: 5px;
+}
+.donate a span {
+  text-align: right;
+  background-color: #139157;
+  display: inline-block;
+  margin-left: 5px;
+  padding: 0 5px;
+  border-radius: 0 2px 2px 0;
+}
+.donate:hover {
+  background-color: #444;
+}
+.donate:hover a {
+  color: #fff;
+  text-decoration: none;
+}
+p + center {
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
